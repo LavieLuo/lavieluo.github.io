@@ -1,9 +1,11 @@
 # Lavie's Homepage
 
+---
 ## Biography
 
 I am a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. My currently research interests include image processing, manifold learning, and machine learning. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
 
+---
 ## Education
 > Ph.D. in Applied Math, 2018 - <br>
 > School of Mathematics, [Sun Yat-Sen University](http://www.sysu.edu.cn/en/index.htm), Guangzhou, China. <br>
@@ -13,6 +15,7 @@ I am a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](ht
 > School of Mathematics, [China University of Mining and Technology](http://global.cumt.edu.cn/), Xuzhou, China. <br>
 > **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)**
 
+---
 ## Publications
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
