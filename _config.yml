@@ -2,7 +2,7 @@ title: <center>You-Wei Luo</center> <br> <center>Lavie</center> <br> <center>罗
 logo: photograph.jpg
 description: <link href="//netdna.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet"> <i class="fa fa-graduation-cap" aria-hidden="true"></i> Ph.D. candidate <br> <i class="fa fa-building" aria-hidden="true"></i> &nbsp <a href="http://www.sysu.edu.cn/en/index.htm">Sun Yat-Sen University</a> <br> <i class="fa fa-google" aria-hidden="true"></i> &nbsp <a href="https://scholar.google.com.hk/citations?user=n9xRWGsAAAAJ&hl=en&oi=sra">Google Scholar</a> <br> <i class="fa fa-bar-chart" aria-hidden="true"></i> &nbsp <a href="https://www.semanticscholar.org/author/You-Wei-Luo/120198052">Semantic Scholar</a> <br> <i class="fa fa-envelope" aria-hidden="true"></i> &nbsp luoyw28@mail2.sysu.edu.cn <br> <i class="fa fa-github" aria-hidden="true"></i> &nbsp <a href="https://github.com/LavieLuo">Lavie Luo</a>
 show_downloads: false
-google_analytics: [UA-176789770-1]
+google_analytics: UA-176789770-1
 theme: jekyll-theme-minimal
 github.is_project_page: false
 github.is_user_page: false
