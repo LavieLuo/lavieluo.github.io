@@ -1,4 +1,4 @@
-## Lavie's Homepage
+# Lavie's Homepage
 
 ## Biography
 
