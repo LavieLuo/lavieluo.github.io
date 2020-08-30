@@ -2,7 +2,7 @@
 
 ## Biography
 
-I am currently a Ph.D. candidate in the School of Mathematics, Sun Yat-sen University, Guangzhou, China. My Ph.D. supervisor is **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)**. My research interests include image processing, manifold learning, and machine learning.
+I am currently a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, Sun Yat-sen University, Guangzhou, China. My research interests include image processing, manifold learning, and machine learning.
 
 ## Publication
 
