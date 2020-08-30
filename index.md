@@ -7,10 +7,10 @@ I am currently a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xi
 ## Publication
 
 
-**You-Wei Luo**, Chuan-Xian Ren*, Dao-Qing Dai, and Hong Yan. "Unsupervised Domain Adaptation via Discriminative Manifold Propagation." *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2020, Early Access. **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)**
+**You-Wei Luo**, Chuan-Xian Ren, Dao-Qing Dai, and Hong Yan. "Unsupervised Domain Adaptation via Discriminative Manifold Propagation." *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2020, Early Access. **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)**
 
 
-Wenya Shi, **You-Wei Luo**, and Gang Wu*. "On general matrix exponential discriminant analysis methods for high dimensionality reduction." *Calcolo*. 2020, 57(2). **[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6)**
+Wenya Shi, **You-Wei Luo**, and Gang Wu. "On general matrix exponential discriminant analysis methods for high dimensionality reduction." *Calcolo*. 2020, 57(2). **[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6)**
 
 Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren. "Enhanced Transport Distance for Unsupervised Domain Adaptation." *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*. 2020. **[[IEEE]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157821&tag=1) [[Code]](https://github.com/LavieLuo/ETD)**
 
