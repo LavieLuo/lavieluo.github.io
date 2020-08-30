@@ -4,34 +4,11 @@
 
 I am currently a Ph.D. candidate in the School of Mathematics, Sun Yat-sen University, Guangzhou, China. My Ph.D. supervisor is **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)**. My research interests include image processing, manifold learning, and machine learning.
 
-### Markdown
+## Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Luo, You-Wei, Chuan-Xian Ren, Dao-Qing Dai, and Hong Yan. "Unsupervised Domain Adaptation via Discriminative Manifold Propagation." *IEEE transactions on pattern analysis and machine intelligence*. 2020, Early Access. **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)**
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LavieLuo/lavie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
