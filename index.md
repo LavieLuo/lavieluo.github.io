@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Biography
 
-You can use the [editor on GitHub](https://github.com/LavieLuo/lavie.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You-Wei Luo is currently pursuing the Ph.D. degree with the School of Mathematics, Sun Yat-sen University, Guangzhou, China. His research interests include image processing, manifold learning, and machine learning.
 
 ### Markdown
 
