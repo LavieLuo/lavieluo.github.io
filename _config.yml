@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics: UA-176789770-1
 theme: jekyll-theme-minimal
 github.is_project_page: false
+github.is_user_page: false
