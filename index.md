@@ -1,6 +1,6 @@
 ## Biography
 
-You-Wei Luo is currently pursuing the Ph.D. degree with the School of Mathematics, Sun Yat-sen University, Guangzhou, China. His research interests include image processing, manifold learning, and machine learning.
+I am a Ph.D. candidate in the School of Mathematics, Sun Yat-sen University, Guangzhou, China. My Ph.D. supervisor is **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)**. My research interests include image processing, manifold learning, and machine learning.
 
 ### Markdown
 
