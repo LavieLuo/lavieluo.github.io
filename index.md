@@ -3,7 +3,7 @@
 ---
 ## Biography
 
-I am a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. My currently research interests include image processing, manifold learning, and machine learning. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
+I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. My currently research interests include image processing, manifold learning, and machine learning. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
 
 ---
 ## Education
