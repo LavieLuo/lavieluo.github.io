@@ -36,7 +36,7 @@ Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br
 + **Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Pengfei Ge, Ke-Kun Huang and Yu-Feng Yu. <br>
 *Proceedings of the AAAI Conference on Artificial Intelligence* ***(Oral)***. 2020. <br>
-**[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Code]](https://github.com/LavieLuo/DRMEA)**
+**[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slices]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)**
 
 + **Discriminative Residual Analysis for Image Set Classification With Posture and Age Variations** <br>
 Chuan-Xian Ren\*, **You-Wei Luo**, Xiao-Lin Xu, Dao-Qing Dai, and Hong Yan. <br>
