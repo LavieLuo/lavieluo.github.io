@@ -31,7 +31,7 @@ Wenya Shi, **You-Wei Luo**, and Gang Wu\*. <br>
 + **Enhanced Transport Distance for Unsupervised Domain Adaptation** <br>
 Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br>
 *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* ***(Poster)***. 2020.<br>
-**[[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html) [[IEEE]](https://ieeexplore.ieee.org/document/9157821) [[Code]](https://github.com/LavieLuo/ETD)**
+**[[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html) [[IEEE]](https://ieeexplore.ieee.org/document/9157821) [[Poster]](https://drive.google.com/file/d/1ljIuVgPJA4pyU5_WwlZSl60qHYq_ApjG/view?usp=sharing) [[Slices]](https://drive.google.com/file/d/1GhPtOSIHgmxrT8FBa0JXC1foQKlRDqpV/view?usp=sharing) [[Code]](https://github.com/LavieLuo/ETD)**
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Pengfei Ge, Ke-Kun Huang and Yu-Feng Yu. <br>
