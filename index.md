@@ -23,7 +23,7 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2020, Early Access. <br>
 **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)**
 
-+ **On general matrix exponential discriminant analysis methods for high dimensionality reduction** <br>
++ **On General Matrix Exponential Discriminant Analysis Methods for High Dimensionality Reduction** <br>
 Wenya Shi, **You-Wei Luo**, and Gang Wu\*. <br>
 *Calcolo*. 2020, 57(2). <br>
 **[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6)**
