@@ -18,6 +18,12 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 ---
 ## Publications
 
++ **Conditional Bures Metric for Domain Adaptation** <br>
+**You-Wei Luo** and Chuan-Xian Ren\*. <br>
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition* ***(Poster)***. 2021.<br>
+**[[Comning Soon]](https://www.youweiluo.top)** <br>
+*"we develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
+
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Dao-Qing Dai, and Hong Yan. <br>
 *IEEE Transactions on Pattern Analysis and Machine Intelligence*. 2020, Early Access. <br>
