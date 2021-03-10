@@ -33,7 +33,7 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 + **On General Matrix Exponential Discriminant Analysis Methods for High Dimensionality Reduction** <br>
 Wenya Shi, **You-Wei Luo**, and Gang Wu\*. <br>
 *Calcolo*. 2020, 57(2). <br>
-**[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6)** <br>
+**[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6) [[Preprint]](https://www.youweiluo.top/Papers/On%20General%20Matrix%20Exponential%20Discriminant%20Analysis%20Methods%20for%20High%20Dimensionality%20Reduction.pdf)** <br>
 *"We develop a general framework of fast implementation on general matrix exponential-based graph embedding methods, and provide roubust analysis for the fast
 computation strategy from a theoretical point of view."*
 
