@@ -22,7 +22,7 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 **You-Wei Luo** and Chuan-Xian Ren\*. <br>
 *<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
 ***<font color="green">(CVPR)</font>***<font color="green">. 2021. </font> <br>
-**[[CVF]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf)** <br>
+**[[CVF]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf) [[Poster]](https://www.youweiluo.top/Papers/CKB_CVPR21_Poster.pdf) [[Video]](https://drive.google.com/file/d/1RMGOmWvt0eME9Mb2aPOvamX5KiEQU4TM/view?usp=sharing)** <br>
 *"We develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
