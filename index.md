@@ -18,25 +18,27 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 ---
 ## Publications
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
 + **Conditional Bures Metric for Domain Adaptation** <br>
 **You-Wei Luo** and Chuan-Xian Ren\*. <br>
 *<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
 ***<font color="green">(CVPR)</font>***<font color="green">. 2021. </font> <br>
 **[[CVF]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf) [[Poster]](https://www.youweiluo.top/Papers/CKB_CVPR21_Poster.pdf) [[Video]](https://drive.google.com/file/d/1RMGOmWvt0eME9Mb2aPOvamX5KiEQU4TM/view?usp=sharing)** <br>
-*"We develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
+<i class="fas fa-lightbulb"></i> *"We develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Dao-Qing Dai, and Hong Yan. <br>
 *<font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>*
 ***<font color="green">(TPAMI)</font>***<font color="green">. 2020, Early Access. </font> <br>
 **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)** <br>
-*"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different type of manifolds for both DA settings."*
+<i class="fas fa-lightbulb"></i> *"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different type of manifolds for both DA settings."*
 
 + **On General Matrix Exponential Discriminant Analysis Methods for High Dimensionality Reduction** <br>
 Wenya Shi, **You-Wei Luo**, and Gang Wu\*. <br>
 *<font color="green"> Calcolo </font>*<font color="green">. 2020, 57(2). </font> <br>
 **[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6) [[Preprint]](https://www.youweiluo.top/Papers/On%20General%20Matrix%20Exponential%20Discriminant%20Analysis%20Methods%20for%20High%20Dimensionality%20Reduction.pdf)** <br>
-*"We develop a general framework of fast implementation on general matrix exponential-based graph embedding methods, and provide roubust analysis for the fast
+<i class="fas fa-lightbulb"></i> *"We develop a general framework of fast implementation on general matrix exponential-based graph embedding methods, and provide roubust analysis for the fast
 computation strategy from a theoretical point of view."*
 
 + **Enhanced Transport Distance for Unsupervised Domain Adaptation** <br>
@@ -50,11 +52,11 @@ Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br
 *<font color="green"> Proceedings of the AAAI Conference on Artificial Intelligence </font>* 
 ***<font color="green">(AAAI Oral)</font>***<font color="green">. 2020. </font> <br>
 **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slices]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
-*"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
+<i class="fas fa-lightbulb"></i> *"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
 
 + **Discriminative Residual Analysis for Image Set Classification With Posture and Age Variations** <br>
 Chuan-Xian Ren\*, **You-Wei Luo**, Xiao-Lin Xu, Dao-Qing Dai, and Hong Yan. <br>
 *<font color="green"> IEEE Transactions on Image Processing </font>*
 ***<font color="green">(TIP)</font>***<font color="green">. 2020, 29: 2875-2888. </font> <br>
 **[[IEEE]](https://ieeexplore.ieee.org/document/8911369) [[arXiv]](https://arxiv.org/abs/2008.09994) [[Code]](https://github.com/LavieLuo/DRA)** <br>
-*"DRA explores a powerful projection, which casts the residual representations into a discriminant subspace, to magnify the useful information and discriminability of the input space as much as possible."*
+<i class="fas fa-lightbulb"></i> *"DRA explores a powerful projection, which casts the residual representations into a discriminant subspace, to magnify the useful information and discriminability of the input space as much as possible."*
