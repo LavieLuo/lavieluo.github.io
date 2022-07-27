@@ -45,13 +45,13 @@ computation strategy from a theoretical point of view."*
 Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br>
 *<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
 ***<font color="green">(CVPR)</font>*** <font color="green">. 2020. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html) [[IEEE]](https://ieeexplore.ieee.org/document/9157821) [[Poster]](https://drive.google.com/file/d/1ljIuVgPJA4pyU5_WwlZSl60qHYq_ApjG/view?usp=sharing) [[Slices]](https://drive.google.com/file/d/1GhPtOSIHgmxrT8FBa0JXC1foQKlRDqpV/view?usp=sharing) [[Code]](https://github.com/LavieLuo/ETD)**
+<i class="fas fa-file-pdf"></i> **[[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html) [[IEEE]](https://ieeexplore.ieee.org/document/9157821) [[Poster]](https://drive.google.com/file/d/1ljIuVgPJA4pyU5_WwlZSl60qHYq_ApjG/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1GhPtOSIHgmxrT8FBa0JXC1foQKlRDqpV/view?usp=sharing) [[Code]](https://github.com/LavieLuo/ETD)**
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Pengfei Ge, Ke-Kun Huang and Yu-Feng Yu. <br>
 *<font color="green"> Proceedings of the AAAI Conference on Artificial Intelligence </font>* 
 ***<font color="green">(AAAI Oral)</font>***<font color="green">. 2020. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slices]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
+<i class="fas fa-file-pdf"></i> **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slides]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
 <i class="fas fa-lightbulb"></i> *"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
 
 + **Discriminative Residual Analysis for Image Set Classification With Posture and Age Variations** <br>
