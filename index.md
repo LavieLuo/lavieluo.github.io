@@ -3,7 +3,7 @@
 ---
 ## Biography
 
-I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. I am interested in mathematical and statistical methods for transfer learning, including manifold learning, kernel methods, and optimal transport. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
+I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. I am interested in mathematical and statistical methods for distribution shift and transfer learning, including learning theory, kernel methods, and optimal transport. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
 
 ---
 ## Education
@@ -20,6 +20,20 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
++ **MOT: Masked Optimal Transport for Partial Domain Adaptation** <br>
+**You-Wei Luo** and Chuan-Xian Ren\*. <br>
+*<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
+***<font color="green">(CVPR)</font>***<font color="green">. 2023. </font> <br>
+<i class="fas fa-file-pdf"></i> **[[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf)** <br>
+<i class="fas fa-lightbulb"></i> *"A novel machenism to overcome strict mariginal constraints in OT and achieve conditional transfer."*
+
++ **BuresNet: Conditional Bures Metric for Transferable Representation Learning** <br>
+Chuan-Xian Ren\*, **You-Wei Luo**, and Dao-Qing Dai. <br>
+*<font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
+***<font color="green">(TPAMI)</font>***<font color="green">. 2023, 45(4): 4198-4213. </font> <br>
+<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/9829324)** <br>
+<i class="fas fa-lightbulb"></i> *"A plug-and-play discrepancy optimization module for transfer learning scenarios, e.g., domain adaptation and few-shot learning."*
+
 + **Conditional Bures Metric for Domain Adaptation** <br>
 **You-Wei Luo** and Chuan-Xian Ren\*. <br>
 *<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
@@ -30,7 +44,7 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Dao-Qing Dai, and Hong Yan. <br>
 *<font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>*
-***<font color="green">(TPAMI)</font>***<font color="green">. 2020, Early Access. </font> <br>
+***<font color="green">(TPAMI)</font>***<font color="green">. 2022, 44(3): 1653-1669. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)** <br>
 <i class="fas fa-lightbulb"></i> *"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different type of manifolds for both DA settings."*
 
