@@ -3,7 +3,7 @@
 ---
 ## Biography
 
-I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. I am interested in mathematical and statistical methods for distribution shift and transfer learning, including learning theory, kernel methods, and optimal transport. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I foused on the application of matrix theory.
+I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. I am interested in mathematical and statistical methods for distribution shift and transfer learning, including learning theory, kernel methods, and optimal transport. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I focused on the application of matrix theory.
 
 ---
 ## Education
@@ -24,8 +24,8 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 **You-Wei Luo** and Chuan-Xian Ren\*. <br>
 *<font color="green"> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
 ***<font color="green">(CVPR)</font>***<font color="green">. 2023. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf)** <br>
-<i class="fas fa-lightbulb"></i> *"A novel machenism to overcome strict mariginal constraints in OT and achieve conditional transfer."*
+<i class="fas fa-file-pdf"></i> **[[CVF]](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf) [[Video]](https://www.youtube.com/watch?v=L2zqUfzlqHo&t=8s)** <br>
+<i class="fas fa-lightbulb"></i> *"A novel mechanism to overcome strict marginal constraints in OT and achieve conditional transfer."*
 
 + **BuresNet: Conditional Bures Metric for Transferable Representation Learning** <br>
 Chuan-Xian Ren\*, **You-Wei Luo**, and Dao-Qing Dai. <br>
@@ -46,13 +46,13 @@ Chuan-Xian Ren\*, **You-Wei Luo**, and Dao-Qing Dai. <br>
 *<font color="green"> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>*
 ***<font color="green">(TPAMI)</font>***<font color="green">. 2022, 44(3): 1653-1669. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)** <br>
-<i class="fas fa-lightbulb"></i> *"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different type of manifolds for both DA settings."*
+<i class="fas fa-lightbulb"></i> *"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different types of manifolds for both DA settings."*
 
 + **On General Matrix Exponential Discriminant Analysis Methods for High Dimensionality Reduction** <br>
 Wenya Shi, **You-Wei Luo**, and Gang Wu\*. <br>
 *<font color="green"> Calcolo </font>*<font color="green">. 2020, 57(2). </font> <br>
 <i class="fas fa-file-pdf"></i> **[[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6) [[Preprint]](https://www.youweiluo.top/Papers/On%20General%20Matrix%20Exponential%20Discriminant%20Analysis%20Methods%20for%20High%20Dimensionality%20Reduction.pdf)** <br>
-<i class="fas fa-lightbulb"></i> *"We develop a general framework of fast implementation on general matrix exponential-based graph embedding methods, and provide roubust analysis for the fast
+<i class="fas fa-lightbulb"></i> *"We develop a general framework of fast implementation on general matrix exponential-based graph embedding methods, and provide robust analysis for the fast
 computation strategy from a theoretical point of view."*
 
 + **Enhanced Transport Distance for Unsupervised Domain Adaptation** <br>
@@ -74,3 +74,12 @@ Chuan-Xian Ren\*, **You-Wei Luo**, Xiao-Lin Xu, Dao-Qing Dai, and Hong Yan. <br>
 ***<font color="green">(TIP)</font>***<font color="green">. 2020, 29: 2875-2888. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/8911369) [[arXiv]](https://arxiv.org/abs/2008.09994) [[Code]](https://github.com/LavieLuo/DRA)** <br>
 <i class="fas fa-lightbulb"></i> *"DRA explores a powerful projection, which casts the residual representations into a discriminant subspace, to magnify the useful information and discriminability of the input space as much as possible."*
+
+---
+## Academic Service
+#### Reviewer or PC Member:
++ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
++ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023
++ Advances in Neural Information Processing Systems (NeurIPS): 2022
++ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
++ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
