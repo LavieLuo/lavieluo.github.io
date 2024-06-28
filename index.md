@@ -16,7 +16,7 @@ I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](htt
 > **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)**
 
 ---
-## Publications
+## Selected Publications
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 
@@ -83,3 +83,23 @@ Chuan-Xian Ren\*, **You-Wei Luo**, Xiao-Lin Xu, Dao-Qing Dai, and Hong Yan. <br>
 + Advances in Neural Information Processing Systems (NeurIPS): 2022
 + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
 + IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+
+---
+## All Publications
+**[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
+**[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) <br>
+**[AAAI'24]** Yan Wang, Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation. *AAAI*, 2024. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29493) <br>
+**[SCIS'24]** Yi-Ming Zhai, Chuan-Xian Ren\*, **You-Wei Luo**, Dao-Qing Dai. Maximizing Conditional Independence for Unsupervised Domain Adaptation. *SCIS*, 2024, 67(5): 152108. [[Springer]](https://link.springer.com/article/10.1007/s11432-022-3851-1) <br>
+**[CVPR'23]** **You-Wei Luo** and Chuan-Xian Ren\*. MOT: Masked Optimal Transport for Partial Domain Adaptation. *CVPR*, 2023. [[CVF]](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf) [[Video]](https://www.youtube.com/watch?v=L2zqUfzlqHo&t=8s) <br>
+**[TPAMI'23]** Chuan-Xian Ren*, **You-Wei Luo**, and Dao-Qing Dai. BuresNet: Conditional Bures Metric for Transferable Representation Learning. *IEEE TPAMI*, 2023, 45(4): 4198-4213. [[IEEE]](https://ieeexplore.ieee.org/document/9829324) <br>
+**[TPAMI'22]** **You-Wei Luo**, Chuan-Xian Ren\*, Dao-Qing Dai, and Hong Yan. Unsupervised Domain Adaptation via Discriminative Manifold Propagation. *IEEE TPAMI*, 2022, 44(3): 1653-1669. [[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030) <br>
+**[CVPR'21]** **You-Wei Luo** and Chuan-Xian Ren\*. Conditional Bures Metric for Domain Adaptation. *CVPR*, 2021. [[CVF]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf) [[Poster]](https://www.youweiluo.top/Papers/CKB_CVPR21_Poster.pdf) [[Video]](https://drive.google.com/file/d/1RMGOmWvt0eME9Mb2aPOvamX5KiEQU4TM/view?usp=sharing) [[Code]](https://github.com/LavieLuo/CKB) <br>
+**[AAAI'20]** **You-Wei Luo**, Chuan-Xian Ren\*, Pengfei Ge, Ke-Kun Huang and Yu-Feng Yu. Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment. *AAAI*, 2020. [[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slides]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA) <br>
+**[TIP'20]** Chuan-Xian Ren\*, **You-Wei Luo**, Xiao-Lin Xu, Dao-Qing Dai, and Hong Yan. Discriminative Residual Analysis for Image Set Classification With Posture and Age Variations. *IEEE TIP*, 2020, 29: 2875-2888. [[IEEE]](https://ieeexplore.ieee.org/document/8911369) [[arXiv]](https://arxiv.org/abs/2008.09994) [[Code]](https://github.com/LavieLuo/DRA) <br>
+**[Calcolo'20]** Wenya Shi, **You-Wei Luo**, and Gang Wu\*. On General Matrix Exponential Discriminant Analysis Methods for High Dimensionality Reduction. *Calcolo*, 2020, 57(2). [[Springer]](https://link.springer.com/article/10.1007%2Fs10092-020-00366-6) [[Preprint]](https://www.youweiluo.top/Papers/On%20General%20Matrix%20Exponential%20Discriminant%20Analysis%20Methods%20for%20High%20Dimensionality%20Reduction.pdf) <br>
+**[CVPR'20]** Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. Enhanced Transport Distance for Unsupervised Domain Adaptation. *CVPR*, 2020. [[CVF]](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Enhanced_Transport_Distance_for_Unsupervised_Domain_Adaptation_CVPR_2020_paper.html) [[IEEE]](https://ieeexplore.ieee.org/document/9157821) [[Poster]](https://drive.google.com/file/d/1ljIuVgPJA4pyU5_WwlZSl60qHYq_ApjG/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1GhPtOSIHgmxrT8FBa0JXC1foQKlRDqpV/view?usp=sharing) [[Code]](https://github.com/LavieLuo/ETD) <br>
+
+
+
+
+
