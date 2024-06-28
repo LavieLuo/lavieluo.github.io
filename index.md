@@ -3,11 +3,11 @@
 ---
 ## Biography
 
-I'm a Ph.D. candidate working under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** in the School of Mathematics, [SYSU](http://www.sysu.edu.cn/en/index.htm) since 2018. I am interested in mathematical and statistical methods for distribution shift and transfer learning, including learning theory, kernel methods, and optimal transport. I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I focused on the application of matrix theory.
+I am a researcher interested in mathematical and statistical methods for distribution shift and transfer learning, including learning theory, kernel methods, and optimal transport. I received my Ph.D. degree in Applied Math under the guidance of **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)** from [SYSU](http://www.sysu.edu.cn/en/index.htm). Previously, I received my B.S. degree under the supervision of **[Prof. Gang Wu](https://www.researchgate.net/profile/Gang_Wu21)** from [CUMT](http://global.cumt.edu.cn/), where I focused on the application of matrix theory.
 
 ---
 ## Education
-> Ph.D. in Applied Math, 2018 - <br>
+> Ph.D. in Applied Math, 2018 - 2023 <br>
 > School of Mathematics, [Sun Yat-Sen University](http://www.sysu.edu.cn/en/index.htm), Guangzhou, China. <br>
 > **[Prof. Chuan-Xian Ren](http://www.scholat.com/renchx)**
 
@@ -83,10 +83,11 @@ Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br
 ---
 ## Academic Service
 #### Reviewer or PC Member:
++ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024
++ Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023
++ International Conference on Learning Representations (ICLR): 2024
++ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
 + IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-+ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023
-+ Advances in Neural Information Processing Systems (NeurIPS): 2022
-+ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
 + IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 
 ---
