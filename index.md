@@ -33,7 +33,7 @@ I am a researcher interested in mathematical and statistical methods for distrib
 **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. <br>
 *<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
 ***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/)** <br>
+<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524)** <br>
 <i class="fas fa-lightbulb"></i> *"The co-regularization between discriminability and transferability, which ensures the existence of optimal representations with simultaneously maximized two abilities."*
 
 + **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
@@ -93,7 +93,7 @@ Mengxue Li, Yi-Ming Zhai, **You-Wei Luo**, Peng-Fei Ge and Chuan-Xian Ren\*. <br
 ---
 ## All Publications
 **[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
-**[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) <br>
+**[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
 **[AAAI'24]** Yan Wang, Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation. *AAAI*, 2024. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29493) <br>
 **[SCIS'24]** Yi-Ming Zhai, Chuan-Xian Ren\*, **You-Wei Luo**, Dao-Qing Dai. Maximizing Conditional Independence for Unsupervised Domain Adaptation. *SCIS*, 2024, 67(5): 152108. [[Springer]](https://link.springer.com/article/10.1007/s11432-022-3851-1) <br>
 **[CVPR'23]** **You-Wei Luo** and Chuan-Xian Ren\*. MOT: Masked Optimal Transport for Partial Domain Adaptation. *CVPR*, 2023. [[CVF]](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf) [[Video]](https://www.youtube.com/watch?v=L2zqUfzlqHo&t=8s) <br>
