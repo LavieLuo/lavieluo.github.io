@@ -74,7 +74,7 @@ Chuan-Xian Ren\*, **You-Wei Luo**, and Dao-Qing Dai. <br>
 <i class="fas fa-lightbulb"></i> *"We develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
 
 + **Towards Unsupervised Domain Adaptation via Domain-Transformer** <br>
-Chuan-Xian Ren\*, Yiming Zhai, **You-Wei Luo** and Hong Yan. <br>
+Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 *<font color="#053971 "> International Journal of Computer Vision </font>* 
 ***<font color="#053971 ">(IJCV)</font>*** <font color="#053971 ">. 2024. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9)** <br>
@@ -98,7 +98,7 @@ Chuan-Xian Ren\*, Yiming Zhai, **You-Wei Luo** and Hong Yan. <br>
 ## All Publications
 **[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
 **[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
-**[IJCV'24]** Chuan-Xian Ren\*, Yiming Zhai, **You-Wei Luo**, Hong Yan. Towards Unsupervised Domain Adaptation via Domain-Transformer. *IJCV*, 2024. [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9) <br>
+**[IJCV'24]** Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Towards Unsupervised Domain Adaptation via Domain-Transformer. *IJCV*, 2024. [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9) <br>
 **[AAAI'24]** Yan Wang, Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation. *AAAI*, 2024. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29493) <br>
 **[SCIS'24]** Yi-Ming Zhai, Chuan-Xian Ren\*, **You-Wei Luo**, Dao-Qing Dai. Maximizing Conditional Independence for Unsupervised Domain Adaptation. *SCIS*, 2024, 67(5): 152108. [[Springer]](https://link.springer.com/article/10.1007/s11432-022-3851-1) <br>
 **[CVPR'23]** **You-Wei Luo** and Chuan-Xian Ren\*. MOT: Masked Optimal Transport for Partial Domain Adaptation. *CVPR*, 2023. [[CVF]](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf) [[Video]](https://www.youtube.com/watch?v=L2zqUfzlqHo&t=8s) <br>
