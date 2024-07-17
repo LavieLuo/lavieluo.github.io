@@ -85,12 +85,14 @@ Chuan-Xian Ren\*, Yiming Zhai, **You-Wei Luo** and Hong Yan. <br>
 ---
 ## Academic Service
 #### Reviewer or PC Member:
++ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
++ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 + International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024
 + Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023
 + International Conference on Learning Representations (ICLR): 2024
 + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
-+ IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-+ IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
++ European Conference on Computer Vision (ECCV): 2024
+
 
 ---
 ## All Publications
