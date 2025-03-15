@@ -25,14 +25,14 @@ I am a researcher interested in mathematical and statistical methods for distrib
 + **When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights** <br>
 **You-Wei Luo** and Chuan-Xian Ren\*. <br>
 *<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024. </font> <br>
+***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024, 46(12): 9407-9422. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608)** <br>
 <i class="fas fa-lightbulb"></i> *"A systematic study of invariant representation learning with GLS correction, where the theoretical sufficiency and necessity are provided."*
 
 + **Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation** <br>
 **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu and Qingshan Liu. <br>
 *<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024. </font> <br>
+***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024, 46(12): 8727-8742. </font> <br>
 <i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524)** <br>
 <i class="fas fa-lightbulb"></i> *"The co-regularization between discriminability and transferability, which ensures the existence of optimal representations with simultaneously maximized two abilities."*
 
@@ -90,7 +90,7 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 + International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024
 + Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024
 + International Conference on Learning Representations (ICLR): 2024, 2025
-+ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024
++ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025
 + European Conference on Computer Vision (ECCV): 2024
 + International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
 + AAAI Conference on Artificial Intelligence (AAAI): 2025
@@ -98,8 +98,10 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 
 ---
 ## All Publications
-**[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
-**[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
+**[ICASSP'25a]** **You-Wei Luo**, Zhi-Hao Li, Chuan-Xian Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
+**[ICASSP'25b]** **You-Wei Luo**, Yi-Ming Zhai, Chuan-Xian Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
+**[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024, 46(12): 9407-9422. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
+**[TPAMI'24a]** **You-Wei Luo**, Chuan-Xian Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024, 46(12): 8727-8742. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
 **[IJCV'24]** Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Towards Unsupervised Domain Adaptation via Domain-Transformer. *IJCV*, 2024. [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9) <br>
 **[ECCV'24]** Hao-Ran Yang, Chuan-Xian Ren\*, **You-Wei Luo**. COD: Learning Conditional Invariant Representation for Domain Adaptation Regression. *ECCV (Oral)*, 2024. [[arXiv]](https://arxiv.org/abs/2408.06638) <br>
 **[AAAI'24]** Yan Wang, Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo**, Hong Yan. Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation. *AAAI*, 2024. [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29493) <br>
