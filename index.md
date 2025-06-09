@@ -94,10 +94,15 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 + European Conference on Computer Vision (ECCV): 2024
 + International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
 + AAAI Conference on Artificial Intelligence (AAAI): 2025
++ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025
++ ACM Multimedia (ACM MM): 2025
++ European Conference on Machine Learning (ECML): 2025
 
 
 ---
 ## All Publications
+\*: *Corresponding Author.* <br>
+**[ICML'25]** Mingjun Pan, Guanquan Lin, **You-Wei Luo\***, Bin Zhu, Zhien Dai, Lijun Sun, Chun Yuan\*. Preference Optimization for Combinatorial Optimization Problems. *ICML*, 2025. [[arXiv]](https://arxiv.org/abs/2505.08735) <br>
 **[ICASSP'25a]** **You-Wei Luo**, Zhi-Hao Li, Chuan-Xian Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
 **[ICASSP'25b]** **You-Wei Luo**, Yi-Ming Zhai, Chuan-Xian Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
 **[TPAMI'24b]** **You-Wei Luo**, Chuan-Xian Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024, 46(12): 9407-9422. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
