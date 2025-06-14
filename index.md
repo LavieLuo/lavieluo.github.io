@@ -94,7 +94,7 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 + European Conference on Computer Vision (ECCV): 2024
 + International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
 + AAAI Conference on Artificial Intelligence (AAAI): 2025
-+ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025
++ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025 (Excellent Top 20%)
 + ACM Multimedia (ACM MM): 2025
 + European Conference on Machine Learning (ECML): 2025
 
