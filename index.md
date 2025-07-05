@@ -91,6 +91,7 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 + Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024
 + International Conference on Learning Representations (ICLR): 2024, 2025
 + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025
++ International Conference on Computer Vision (ICCV): 2025
 + European Conference on Computer Vision (ECCV): 2024
 + International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
 + AAAI Conference on Artificial Intelligence (AAAI): 2025
