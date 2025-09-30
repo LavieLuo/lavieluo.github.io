@@ -87,8 +87,9 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 #### Reviewer or PC Member:
 + IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 + IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-+ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024
-+ Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024
++ Machine Learning (MLJ)
++ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024, 2025
++ Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024, 2025
 + International Conference on Learning Representations (ICLR): 2024, 2025
 + IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025
 + International Conference on Computer Vision (ICCV): 2025
@@ -98,6 +99,7 @@ Chuan-Xian Ren\*, Yi-Ming Zhai, **You-Wei Luo** and Hong Yan. <br>
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025 (Excellent Top 20%)
 + ACM Multimedia (ACM MM): 2025
 + European Conference on Machine Learning (ECML): 2025
++ IEEE/CVF Winter Conference on Applications (WACV): 2026
 
 
 ---
