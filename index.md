@@ -84,15 +84,15 @@ C. Ren\*, Y. Zhai, **Y. Luo** and H. Yan. <br>
 + IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 + IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 + Machine Learning (MLJ)
-+ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024, 2025
++ International Conference on Machine Learning (ICML): 2022 (Outstanding Top 10%), 2023, 2024, 2025, 2026
 + Advances in Neural Information Processing Systems (NeurIPS): 2022, 2023, 2024, 2025
-+ International Conference on Learning Representations (ICLR): 2024, 2025
-+ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025
++ International Conference on Learning Representations (ICLR): 2024, 2025, 2026
++ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023, 2024, 2025, 2026
 + International Conference on Computer Vision (ICCV): 2025
 + European Conference on Computer Vision (ECCV): 2024
-+ International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
++ International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 + AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026
-+ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025 (Excellent Top 20%)
++ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025 (Excellent Top 20%), 2026
 + ACM Multimedia (ACM MM): 2025
 + European Conference on Machine Learning (ECML): 2025
 + IEEE/CVF Winter Conference on Applications (WACV): 2026
@@ -101,9 +101,11 @@ C. Ren\*, Y. Zhai, **Y. Luo** and H. Yan. <br>
 ---
 ## All Publications
 \*: *Corresponding Author.* <br>
+**[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026.
 **[ICML'25]** M. Pan, G. Lin, **Y. Luo\***, B. Zhu, Z. Dai, L. Sun, C. Yuan\*. Preference Optimization for Combinatorial Optimization Problems. *ICML*, 2025. [[arXiv]](https://arxiv.org/abs/2505.08735) <br>
 **[ICASSP'25a]** **Y. Luo**, Z. Li, C. Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
 **[ICASSP'25b]** **Y. Luo**, Y. Zhai, C. Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
+**[TIP'25]** C. Guo, C. Ren\*, Y. Luo, X. Xu, H. Yan. Partial Domain Adaptation via Importance Sampling-based Shift Correction. *IEEE TIP*, 2025.
 **[TPAMI'24b]** **Y. Luo**, C. Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024, 46(12): 9407-9422. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
 **[TPAMI'24a]** **Y. Luo**, C. Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024, 46(12): 8727-8742. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
 **[IJCV'24]** C. Ren\*, Y. Zhai, **Y. Luo**, H. Yan. Towards Unsupervised Domain Adaptation via Domain-Transformer. *IJCV*, 2024. [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9) <br>
