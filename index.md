@@ -101,11 +101,11 @@ C. Ren\*, Y. Zhai, **Y. Luo** and H. Yan. <br>
 ---
 ## All Publications
 \*: *Corresponding Author.* <br>
-**[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026.
+**[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026. <br>
 **[ICML'25]** M. Pan, G. Lin, **Y. Luo\***, B. Zhu, Z. Dai, L. Sun, C. Yuan\*. Preference Optimization for Combinatorial Optimization Problems. *ICML*, 2025. [[arXiv]](https://arxiv.org/abs/2505.08735) <br>
 **[ICASSP'25a]** **Y. Luo**, Z. Li, C. Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
 **[ICASSP'25b]** **Y. Luo**, Y. Zhai, C. Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
-**[TIP'25]** C. Guo, C. Ren\*, Y. Luo, X. Xu, H. Yan. Partial Domain Adaptation via Importance Sampling-based Shift Correction. *IEEE TIP*, 2025.
+**[TIP'25]** C. Guo, C. Ren\*, Y. Luo, X. Xu, H. Yan. Partial Domain Adaptation via Importance Sampling-based Shift Correction. *IEEE TIP*, 2025. <br>
 **[TPAMI'24b]** **Y. Luo**, C. Ren\*. When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights. *IEEE TPAMI*, 2024, 46(12): 9407-9422. [[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608) <br>
 **[TPAMI'24a]** **Y. Luo**, C. Ren\*, Xiao-Lin Xu, Qingshan Liu. Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation. *IEEE TPAMI*, 2024, 46(12): 8727-8742. [[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524) <br>
 **[IJCV'24]** C. Ren\*, Y. Zhai, **Y. Luo**, H. Yan. Towards Unsupervised Domain Adaptation via Domain-Transformer. *IJCV*, 2024. [[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9) <br>
