@@ -24,7 +24,7 @@ My research focuses on statistical machine learning, including statistical learn
 
   <div id="selected-publications" class="tab-content active" markdown="1">
     
-  #### Dataset Shift and Generalization Analysis:
+  ### Dataset Shift and Generalization Analysis:
   
   + **When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights** <br>
   **Y. Luo** and C. Ren\*. <br>
@@ -54,7 +54,7 @@ My research focuses on statistical machine learning, including statistical learn
   <i class="fas fa-file-pdf"></i> **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slides]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
   <i class="fas fa-lightbulb"></i> *"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
   
-  #### Optimal Transport:
+  ### Optimal Transport:
   
   + **MOT: Masked Optimal Transport for Partial Domain Adaptation** <br>
   **Y. Luo** and C. Ren\*. <br>
@@ -110,68 +110,6 @@ My research focuses on statistical machine learning, including statistical learn
   </div>
 </div>
 
-## Selected Publications
-
-#### Dataset Shift and Generalization Analysis:
-
-+ **When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights** <br>
-**Y. Luo** and C. Ren\*. <br>
-*<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024, 46(12): 9407-9422. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/10568359/) [[arXiv]](https://arxiv.org/abs/2406.16608)** <br>
-<i class="fas fa-lightbulb"></i> *"A systematic study of invariant representation learning with GLS correction, where the theoretical sufficiency and necessity are provided."*
-
-+ **Geometric Understanding of Discriminability and Transferability for Visual Domain Adaptation** <br>
-**Y. Luo**, C. Ren\*, X. Xu and Q. Liu. <br>
-*<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2024, 46(12): 8727-8742. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/abstract/document/10552873/) [[arXiv]](https://arxiv.org/abs/2407.09524)** <br>
-<i class="fas fa-lightbulb"></i> *"The co-regularization between discriminability and transferability, which ensures the existence of optimal representations with simultaneously maximized two abilities."*
-
-+ **Unsupervised Domain Adaptation via Discriminative Manifold Propagation** <br>
-**Y. Luo**, C. Ren\*, D. Dai and H. Yan. <br>
-*<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>*
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2022, 44(3): 1653-1669. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/9158545) [[arXiv]](https://arxiv.org/abs/2008.10030)** <br>
-<i class="fas fa-lightbulb"></i> *"We propose a unified manifold learning framework for the UDA and PDA problems, and prove the error bounds with the metrics on the different types of manifolds for both DA settings."*
-
-+ **Unsupervised Domain Adaptation via Discriminative Manifold Embedding and Alignment** <br>
-**Y. Luo**, C. Ren\*, P. Ge, K. Huang and Y. Yu. <br>
-*<font color="#053971 "> Proceedings of the AAAI Conference on Artificial Intelligence </font>* 
-***<font color="#053971 ">(AAAI Oral)</font>***<font color="#053971 ">. 2020. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slides]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
-<i class="fas fa-lightbulb"></i> *"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
-
-#### Optimal Transport:
-
-+ **MOT: Masked Optimal Transport for Partial Domain Adaptation** <br>
-**Y. Luo** and C. Ren\*. <br>
-*<font color="#053971 "> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
-***<font color="#053971 ">(CVPR)</font>***<font color="#053971 ">. 2023. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[CVF]](https://openaccess.thecvf.com/content/CVPR2023/html/Luo_MOT_Masked_Optimal_Transport_for_Partial_Domain_Adaptation_CVPR_2023_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/MOT_CVPR2023.pdf) [[Video]](https://www.youtube.com/watch?v=L2zqUfzlqHo&t=8s)** <br>
-<i class="fas fa-lightbulb"></i> *"A novel mechanism to overcome strict marginal constraints in OT and achieve conditional transfer."*
-
-+ **BuresNet: Conditional Bures Metric for Transferable Representation Learning** <br>
-C. Ren\*, **Y. Luo** and D. Dai. <br>
-*<font color="#053971 "> IEEE Transactions on Pattern Analysis and Machine Intelligence </font>* 
-***<font color="#053971 ">(TPAMI)</font>***<font color="#053971 ">. 2023, 45(4): 4198-4213. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[IEEE]](https://ieeexplore.ieee.org/document/9829324)** <br>
-<i class="fas fa-lightbulb"></i> *"A plug-and-play discrepancy optimization module for transfer learning scenarios, e.g., domain adaptation and few-shot learning."*
-
-+ **Conditional Bures Metric for Domain Adaptation** <br>
-**Y. Luo** and C. Ren\*. <br>
-*<font color="#053971 "> Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition </font>* 
-***<font color="#053971 ">(CVPR)</font>***<font color="#053971 ">. 2021. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[CVF]](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Conditional_Bures_Metric_for_Domain_Adaptation_CVPR_2021_paper.html) [[Preprint]](https://www.youweiluo.top/Papers/ConditionalBures_CVPR2021.pdf) [[Poster]](https://www.youweiluo.top/Papers/CKB_CVPR21_Poster.pdf) [[Video]](https://drive.google.com/file/d/1RMGOmWvt0eME9Mb2aPOvamX5KiEQU4TM/view?usp=sharing) [[Code]](https://github.com/LavieLuo/CKB)** <br>
-<i class="fas fa-lightbulb"></i> *"We develop a theoretical conditional distribution discrepancy called Conditional Kernel Bures (CKB) metric, and propose a conditional invariant feature learning model for UDA."*
-
-+ **Towards Unsupervised Domain Adaptation via Domain-Transformer** <br>
-C. Ren\*, Y. Zhai, **Y. Luo** and H. Yan. <br>
-*<font color="#053971 "> International Journal of Computer Vision </font>* 
-***<font color="#053971 ">(IJCV)</font>*** <font color="#053971 ">. 2024. </font> <br>
-<i class="fas fa-file-pdf"></i> **[[Springer]](https://link.springer.com/article/10.1007/s11263-024-02174-9)** <br>
-<i class="fas fa-lightbulb"></i> *"We connect the core mechanism of Transformer with the optimal transport, where the generalization error can be controlled by the cross-domain Wasserstein distance."*
-
 
 
 ---
@@ -195,46 +133,40 @@ C. Ren\*, Y. Zhai, **Y. Luo** and H. Yan. <br>
 
 
 <style>
-  /* Publications 选项卡样式 */
   .publication-tabs {
     margin: 1.5em 0;
   }
-  
   .tab-buttons {
     border-bottom: 2px solid #eaecef;
     margin-bottom: 1.5em;
     display: flex;
     gap: 0.5em;
   }
-  
   .tab-button {
     background: none;
     border: none;
     padding: 0.6em 1.2em;
     font-size: 1em;
-    font-weight: 500;
+    font-weight: bold;        /* 加粗字体 */
     cursor: pointer;
     color: #586069;
     border-radius: 6px 6px 0 0;
     transition: all 0.2s ease;
   }
-  
   .tab-button:hover {
     color: #0366d6;
     background: #f6f8fa;
   }
-  
   .tab-button.active {
     color: #0366d6;
     border-bottom: 2px solid #0366d6;
     margin-bottom: -2px;
     background: #f6f8fa;
+    font-weight: bold;        /* 保持加粗，也可与普通状态相同 */
   }
-  
   .tab-content {
     display: none;
   }
-  
   .tab-content.active {
     display: block;
   }
