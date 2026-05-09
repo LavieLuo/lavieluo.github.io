@@ -3,18 +3,18 @@
 # Lavie's Homepage
 
 ---
-## About Me
+## <i class="fas fa-user-graduate"></i> About Me
 
 I am currently a distinguished associate research fellow at the [Department of Statistics](https://fas.bnu.edu.cn/jyjg/xsgk/tjx1/xsjstj/index.htm), [Beijing Normal University at Zhuhai](https://english.bnuzh.edu.cn/). Before joining BNU, I did postdoctoral research and finished my Ph.D. degree in Applied Math at [SYSU](http://www.sysu.edu.cn/en/index.htm). Previously, I received my B.S. degree in Statistics from [CUMT](http://global.cumt.edu.cn/). 
 
 ---
-## Research Interests
+## <i class="fas fa-flask"></i> Research Interests
 My research focuses on statistical machine learning, including statistical learning theory for transfer learning, statistical perspectives of optimal transport, kernel theory, and applications in computer vision and COPs. 
 
 <i class="fas fa-thumbs-up"></i> *<font color="#053971 "> I'm always looking for self-motivated graduate/undergraduate students. Please feel free to contact me if you are interested in my research directions. </font>* 
 
 ---
-## Publications
+## <i class="fas fa-book-open"></i> Publications
 
 <div class="publication-tabs">
   <div class="tab-buttons">
@@ -88,7 +88,7 @@ My research focuses on statistical machine learning, including statistical learn
   <div id="all-publications" class="tab-content" markdown="1">
     
   \*: *Corresponding Author.* <br>
-  **[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026. <br>
+  **[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026. [[ACM]](https://dl.acm.org/doi/abs/10.1145/3770854.3780210) <br>
   **[ICML'25]** M. Pan, G. Lin, **Y. Luo\***, B. Zhu, Z. Dai, L. Sun, C. Yuan\*. Preference Optimization for Combinatorial Optimization Problems. *ICML*, 2025. [[arXiv]](https://arxiv.org/abs/2505.08735) <br>
   **[ICASSP'25a]** **Y. Luo**, Z. Li, C. Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
   **[ICASSP'25b]** **Y. Luo**, Y. Zhai, C. Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
@@ -113,7 +113,7 @@ My research focuses on statistical machine learning, including statistical learn
 
 
 ---
-## Academic Service
+## <i class="fas fa-users"></i> Academic Service
 #### Reviewer or PC Member:
 + IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 + IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
@@ -131,6 +131,13 @@ My research focuses on statistical machine learning, including statistical learn
 + European Conference on Machine Learning (ECML): 2025
 + IEEE/CVF Winter Conference on Applications (WACV): 2026
 
+
+---
+## <i class="fas fa-chalkboard"></i> Teaching
++ **概率论与数理统计（Probability and Mathematical Statistics）**: Undergraduate course, Spring 2026.
+  - **Reference Books**: 盛骤等, [*概率论与数理统计（第五版）*](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6266d3d2938b7cc2960ee9f3), 高教社.
++ **应用统计前沿专题（Frontiers in Applied Statistics）**: Graduate course, Spring 2026.
+  - **Reference Books**: Redko et al., [*Advances in Domain Adaptation Theory*](https://www.sciencedirect.com/book/monograph/9781785482366/advances-in-domain-adaptation-theory), ISTE Press; Peyré and Cuturi, [*Computational Optimal Transport with Applications to Data Sciences*](https://optimaltransport.github.io/), Emerald Publishing.
 
 <style>
   .publication-tabs {
