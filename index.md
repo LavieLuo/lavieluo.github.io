@@ -24,7 +24,7 @@ My research focuses on statistical machine learning, including statistical learn
 
   <div id="selected-publications" class="tab-content active" markdown="1">
     
-  ### Dataset Shift and Generalization Analysis:
+  <h4>Dataset Shift and Generalization Analysis:</h4>
   
   + **When Invariant Representation Learning Meets Label Shift: Insufficiency and Theoretical Insights** <br>
   **Y. Luo** and C. Ren\*. <br>
@@ -54,7 +54,7 @@ My research focuses on statistical machine learning, including statistical learn
   <i class="fas fa-file-pdf"></i> **[[AAAI]](https://aaai.org/ojs/index.php/AAAI/article/view/5943) [[arXiv]](https://arxiv.org/abs/2002.08675) [[Slides]](https://drive.google.com/file/d/1XdBqNrWW0N7hmDGRdyOUA5XAB8-1xd6U/view?usp=sharing) [[Code]](https://github.com/LavieLuo/DRMEA)** <br>
   <i class="fas fa-lightbulb"></i> *"DRMEA describes the domains by a sequence of abstract manifolds, and develops a Riemannian manifold learning framework to achieve transferability and discriminability consistently."*
   
-  ### Optimal Transport:
+  <h4>Optimal Transport:</h4>
   
   + **MOT: Masked Optimal Transport for Partial Domain Adaptation** <br>
   **Y. Luo** and C. Ren\*. <br>
@@ -170,6 +170,12 @@ My research focuses on statistical machine learning, including statistical learn
   .tab-content.active {
     display: block;
   }
+  #selected-publications h4 {
+  margin: 1.2em 0 0.5em 0;
+  font-size: 1.1em;
+  font-weight: 600;
+  color: #24292e;
+}
 </style>
 
 <script>
