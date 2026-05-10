@@ -18,7 +18,7 @@ My research focuses on statistical machine learning, including statistical learn
 
 <div class="publication-tabs">
   <div class="tab-buttons">
-    <button class="tab-button active" onclick="showPublicationsTab('selected')"><i class="fas fa-star"></i> Selected Publications</button>
+    <button class="tab-button active" onclick="showPublicationsTab('selected')"><i class="fas fa-star"></i>  Selected Publications</button>
     <button class="tab-button" onclick="showPublicationsTab('all')"><i class="fas fa-list-ul"></i> All Publications</button>
   </div>
 
