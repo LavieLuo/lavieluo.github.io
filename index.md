@@ -88,7 +88,7 @@ My research focuses on statistical machine learning, including statistical learn
   <div id="all-publications" class="tab-content" markdown="1">
     
   \*: *Corresponding Author.* <br>
-  **[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026. [[ACM]](https://dl.acm.org/doi/abs/10.1145/3770854.3780210) <br>
+  **[KDD'26]** H. Chen, Y. Zhai, M. Pan, **Y. Luo\***. BiCD: Learning Conditional Dependence for Continuous Dataset Shift in Regression. *ACM KDD*, 2026. [[ACM]](https://dl.acm.org/doi/abs/10.1145/3770854.3780210) [[Poster]](https://github.com/LavieLuo/lavieluo.github.io/blob/gh-pages/Papers/BiCD_KDD2026_Poster.pdf) <br>
   **[ICML'25]** M. Pan, G. Lin, **Y. Luo\***, B. Zhu, Z. Dai, L. Sun, C. Yuan\*. Preference Optimization for Combinatorial Optimization Problems. *ICML*, 2025. [[arXiv]](https://arxiv.org/abs/2505.08735) <br>
   **[ICASSP'25a]** **Y. Luo**, Z. Li, C. Ren\*. MPOT: Manifold Preserving Optimal Transport for Visual Recognition Under Severe Distribution Shift. *ICASSP (Oral)*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10890240/) <br>
   **[ICASSP'25b]** **Y. Luo**, Y. Zhai, C. Ren\*. Invariant Model Learning on Local-Aware Wasserstein Geodesic for Domain Adaptation. *ICASSP*, 2025. [[IEEE]](https://ieeexplore.ieee.org/document/10888490) <br>
