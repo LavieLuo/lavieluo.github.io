@@ -127,17 +127,19 @@ My research focuses on statistical machine learning, including statistical learn
 + International Conference on Artificial Intelligence and Statistics (AISTATS): 2025, 2026
 + AAAI Conference on Artificial Intelligence (AAAI): 2025, 2026
 + ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD): 2025 (Excellent Top 20%), 2026
-+ ACM Multimedia (ACM MM): 2025
++ ACM Multimedia (ACM MM): 2025, 2026
 + European Conference on Machine Learning (ECML): 2025
 + IEEE/CVF Winter Conference on Applications (WACV): 2026
 
 
 ---
 ## <i class="fas fa-chalkboard"></i> Teaching
++ **统计学习前沿（Advances in Statistical Learning）**: Undergraduate course, Fall 2026.
+  - **Reference Books**: [[*Understanding Machine Learning: From Theory to Algorithms*](https://www.cambridge.org/core/books/understanding-machine-learning/3059695661405D25673058E43C8BE2A6)], Shalev-Shwartz and Ben-David, Cambridge University Press; [[*Learning Theory from First Principles*](https://mitpress.mit.edu/9780262049443/learning-theory-from-first-principles/)], Bach, MIT Press; [[*Advances in Domain Adaptation Theory*](https://www.sciencedirect.com/book/monograph/9781785482366/advances-in-domain-adaptation-theory)], Redko et al., ISTE Press; [[*Computational Optimal Transport with Applications to Data Sciences*](https://optimaltransport.github.io/)], Peyré and Cuturi, Emerald Publishing.
 + **概率论与数理统计（Probability and Mathematical Statistics）**: Undergraduate course, Spring 2026.
-  - **Reference Books**: 盛骤等, [*概率论与数理统计（第五版）*](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6266d3d2938b7cc2960ee9f3), 高教社.
+  - **Reference Books**: [[*概率论与数理统计（第五版）*](https://xuanshu.hep.com.cn/front/book/findBookDetails?bookId=6266d3d2938b7cc2960ee9f3)], 盛骤等, 高教社.
 + **应用统计前沿专题（Frontiers in Applied Statistics）**: Graduate course, Spring 2026.
-  - **Reference Books**: Redko et al., [*Advances in Domain Adaptation Theory*](https://www.sciencedirect.com/book/monograph/9781785482366/advances-in-domain-adaptation-theory), ISTE Press; Peyré and Cuturi, [*Computational Optimal Transport with Applications to Data Sciences*](https://optimaltransport.github.io/), Emerald Publishing.
+  - **Reference Books**: [[*Advances in Domain Adaptation Theory*](https://www.sciencedirect.com/book/monograph/9781785482366/advances-in-domain-adaptation-theory)], Redko et al., ISTE Press; [[*Computational Optimal Transport with Applications to Data Sciences*](https://optimaltransport.github.io/)], Peyré and Cuturi, Emerald Publishing.
 
 <style>
   .publication-tabs {
